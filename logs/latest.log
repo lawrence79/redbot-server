@@ -1,0 +1,60 @@
+[16:41:34] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[16:41:34] [Server thread/INFO]: Loading properties
+[16:41:34] [Server thread/WARN]: server.properties does not exist
+[16:41:34] [Server thread/INFO]: Generating new properties file
+[16:41:34] [Server thread/INFO]: Default game type: SURVIVAL
+[16:41:34] [Server thread/INFO]: Generating keypair
+[16:41:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:41:34] [Server thread/WARN]: Failed to load user banlist: 
+java.io.FileNotFoundException: banned-players.json (No such file or directory)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.6.0_65]
+	at java.io.FileInputStream.<init>(FileInputStream.java:120) ~[?:1.6.0_65]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.7.9.jar:?]
+	at ol.g(SourceFile:124) ~[minecraft_server.1.7.9.jar:?]
+	at lr.y(SourceFile:99) [minecraft_server.1.7.9.jar:?]
+	at lr.<init>(SourceFile:25) [minecraft_server.1.7.9.jar:?]
+	at ls.e(SourceFile:160) [minecraft_server.1.7.9.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:339) [minecraft_server.1.7.9.jar:?]
+	at li.run(SourceFile:628) [minecraft_server.1.7.9.jar:?]
+[16:41:34] [Server thread/WARN]: Failed to load ip banlist: 
+java.io.FileNotFoundException: banned-ips.json (No such file or directory)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.6.0_65]
+	at java.io.FileInputStream.<init>(FileInputStream.java:120) ~[?:1.6.0_65]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.7.9.jar:?]
+	at ol.g(SourceFile:124) ~[minecraft_server.1.7.9.jar:?]
+	at lr.x(SourceFile:91) [minecraft_server.1.7.9.jar:?]
+	at lr.<init>(SourceFile:27) [minecraft_server.1.7.9.jar:?]
+	at ls.e(SourceFile:160) [minecraft_server.1.7.9.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:339) [minecraft_server.1.7.9.jar:?]
+	at li.run(SourceFile:628) [minecraft_server.1.7.9.jar:?]
+[16:41:34] [Server thread/WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (No such file or directory)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.6.0_65]
+	at java.io.FileInputStream.<init>(FileInputStream.java:120) ~[?:1.6.0_65]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.7.9.jar:?]
+	at ol.g(SourceFile:124) ~[minecraft_server.1.7.9.jar:?]
+	at lr.z(SourceFile:107) [minecraft_server.1.7.9.jar:?]
+	at lr.<init>(SourceFile:29) [minecraft_server.1.7.9.jar:?]
+	at ls.e(SourceFile:160) [minecraft_server.1.7.9.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:339) [minecraft_server.1.7.9.jar:?]
+	at li.run(SourceFile:628) [minecraft_server.1.7.9.jar:?]
+[16:41:34] [Server thread/WARN]: Failed to load white-list: 
+java.io.FileNotFoundException: whitelist.json (No such file or directory)
+	at java.io.FileInputStream.open(Native Method) ~[?:1.6.0_65]
+	at java.io.FileInputStream.<init>(FileInputStream.java:120) ~[?:1.6.0_65]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.7.9.jar:?]
+	at ol.g(SourceFile:124) ~[minecraft_server.1.7.9.jar:?]
+	at lr.B(SourceFile:123) [minecraft_server.1.7.9.jar:?]
+	at lr.<init>(SourceFile:30) [minecraft_server.1.7.9.jar:?]
+	at ls.e(SourceFile:160) [minecraft_server.1.7.9.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:339) [minecraft_server.1.7.9.jar:?]
+	at li.run(SourceFile:628) [minecraft_server.1.7.9.jar:?]
+[16:41:34] [Server thread/INFO]: Preparing level "world"
+[16:41:34] [Server thread/INFO]: Preparing start region for level 0
+[16:41:35] [Server thread/INFO]: Preparing spawn area: 13%
+[16:41:36] [Server thread/INFO]: Preparing spawn area: 31%
+[16:41:37] [Server thread/INFO]: Preparing spawn area: 54%
+[16:41:38] [Server thread/INFO]: Preparing spawn area: 74%
+[16:41:39] [Server thread/INFO]: Preparing spawn area: 96%
+[16:41:40] [Server thread/INFO]: Done (5.388s)! For help, type "help" or "?"
+[16:42:01] [Server Shutdown Thread/INFO]: Stopping server
