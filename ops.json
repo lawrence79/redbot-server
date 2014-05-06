@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "uuid": "a7c27aed-ec31-4e9e-b8e5-3dd3e7ac4e3a",
+    "name": "lodown79",
+    "level": 4
+  },
+  {
+    "uuid": "18e9c222-13ad-478f-9f3b-3b1c96cb3c53",
+    "name": "Nolan_The_Mage",
+    "level": 3
+  },
+  {
+    "uuid": "96d16566-4737-3cf4-8c6f-cb6c70d694b4",
+    "name": "help",
+    "level": 3
+  },
+  {
+    "uuid": "aa0868d3-7334-41d4-a0f5-615ac6715290",
+    "name": "furno108",
+    "level": 3
+  }
+]
