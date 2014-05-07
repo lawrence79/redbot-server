@@ -1,0 +1,46 @@
+2014-05-07 00:52:41 [INFO] Starting minecraft server version 1.6.4
+2014-05-07 00:52:41 [INFO] Loading properties
+2014-05-07 00:52:41 [INFO] Default game type: CREATIVE
+2014-05-07 00:52:41 [INFO] Generating keypair
+2014-05-07 00:52:42 [INFO] Starting Minecraft server on *:25565
+2014-05-07 00:52:42 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-b2918jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.0)
+2014-05-07 00:52:43 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2014-05-07 00:52:43 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2014-05-07 00:52:43 [INFO] Preparing level "world"
+2014-05-07 00:52:43 [INFO] ---- Migration of old nether folder required ----
+2014-05-07 00:52:43 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+2014-05-07 00:52:43 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2014-05-07 00:52:43 [INFO] Attempting to move world/DIM-1 to world_nether/DIM-1...
+2014-05-07 00:52:43 [SEVERE] Could not move folder world/DIM-1 to world_nether/DIM-1!
+2014-05-07 00:52:43 [INFO] ---- Migration of old nether folder failed ----
+2014-05-07 00:52:43 [INFO] ---- Migration of old the_end folder required ----
+2014-05-07 00:52:43 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+2014-05-07 00:52:43 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2014-05-07 00:52:43 [INFO] Attempting to move world/DIM1 to world_the_end/DIM1...
+2014-05-07 00:52:43 [SEVERE] Could not move folder world/DIM1 to world_the_end/DIM1!
+2014-05-07 00:52:43 [INFO] ---- Migration of old the_end folder failed ----
+2014-05-07 00:52:43 [INFO] Preparing start region for level 0 (Seed: -466871749677093078)
+2014-05-07 00:52:44 [INFO] Preparing spawn area: 5%
+2014-05-07 00:52:45 [INFO] Preparing spawn area: 68%
+2014-05-07 00:52:46 [SEVERE] Item entity 285 has no item?!
+2014-05-07 00:52:46 [INFO] Preparing start region for level 1 (Seed: 3784835734166987259)
+2014-05-07 00:52:47 [INFO] Preparing spawn area: 4%
+2014-05-07 00:52:48 [INFO] Preparing spawn area: 8%
+2014-05-07 00:52:49 [INFO] Preparing spawn area: 15%
+2014-05-07 00:52:50 [INFO] Preparing spawn area: 27%
+2014-05-07 00:52:51 [INFO] Preparing spawn area: 35%
+2014-05-07 00:52:52 [INFO] Preparing spawn area: 50%
+2014-05-07 00:52:53 [INFO] Preparing spawn area: 65%
+2014-05-07 00:52:54 [INFO] Preparing spawn area: 73%
+2014-05-07 00:52:55 [INFO] Preparing spawn area: 85%
+2014-05-07 00:52:56 [INFO] Preparing spawn area: 96%
+2014-05-07 00:52:57 [INFO] Preparing start region for level 2 (Seed: 3784835734166987259)
+2014-05-07 00:52:58 [INFO] Preparing spawn area: 24%
+2014-05-07 00:52:59 [INFO] Preparing spawn area: 48%
+2014-05-07 00:53:00 [INFO] Preparing spawn area: 74%
+2014-05-07 00:53:00 [INFO] Done (17.847s)! For help, type "help" or "?"
+2014-05-07 00:53:01 [INFO] /71.126.137.19:53174 lost connection
+2014-05-07 01:00:01 [INFO] CONSOLE: Disabled level saving..[m
+2014-05-07 01:00:01 [INFO] CONSOLE: Forcing save..[m
+2014-05-07 01:00:01 [INFO] CONSOLE: Save complete.[m
+2014-05-07 01:00:11 [INFO] CONSOLE: Enabled level saving..[m
